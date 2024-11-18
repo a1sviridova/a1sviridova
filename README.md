@@ -31,3 +31,7 @@
 </div>
 
 ### :trophy: Достижения :
+
+<div>
+  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=a1sviridova" alt=""/>
+</div>
