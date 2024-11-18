@@ -17,3 +17,6 @@
 </div>
 
 ### :woman_technologist: Обо мне :
+- :brain: учусь в МПТ им. Г. В. Плеханова
+- :woman_pilot: мне 18 лет
+- :biking_woman: люблю рисовать
