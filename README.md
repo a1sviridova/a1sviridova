@@ -18,8 +18,8 @@
 
 ### :woman_technologist: Обо мне :
 - :brain: учусь в МПТ им. Г. В. Плеханова
-- :woman_flower: мне 18 лет
-- :ba_woman: люблю рисовать
+- :white_flower: мне 18 лет
+- :paintbrush_woman: люблю рисовать
 ### :hammer_and_wrench: Языки и инструменты :
 
 </div>
