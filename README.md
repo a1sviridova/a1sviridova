@@ -44,6 +44,7 @@
 
 <div>
 ### :bar_chart: Статистика активности :
+  
 <div>
   <img src="https://github.com/Ashutosh00710/github-readme-activity-graph.vercel.app/graph?username=a1sviridova&theme=rogue" alt=""/>
 </div>
