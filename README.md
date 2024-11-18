@@ -43,7 +43,7 @@
 </div>
 
 <div>
-### :bar_chart: Статистика активности :
+  ### :bar_chart: Статистика активности :
   
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1sviridova&theme=rogue" alt=""/>
