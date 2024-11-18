@@ -42,3 +42,8 @@
   <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=a1sviridova" alt=""/>
 </div>
 
+<div>
+### :bar_chart: Статистика активности :
+<div>
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph.vercel.app/graph?username=a1sviridova&theme=rogue" alt=""/>
+</div>
