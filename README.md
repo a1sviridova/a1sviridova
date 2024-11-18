@@ -35,3 +35,10 @@
 <div>
   <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=a1sviridova" alt=""/>
 </div>
+
+### :keyboard: Наиболее используемые языки :
+
+<div>
+  <img src="https://github.com/anuraghazra/github-readme-stats.vercel.app/api/top-langs/?username=a1sviridova" alt=""/>
+</div>
+
